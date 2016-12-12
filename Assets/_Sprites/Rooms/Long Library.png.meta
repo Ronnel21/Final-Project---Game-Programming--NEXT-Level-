@@ -1,0 +1,1893 @@
+fileFormatVersion: 2
+guid: 5e52cf730f1856244a0f34a3adc8e86b
+timeCreated: 1480271029
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Long Library_0
+    21300002: Long Library_1
+    21300004: Long Library_2
+    21300006: Long Library_3
+    21300008: Long Library_4
+    21300010: Long Library_5
+    21300012: Long Library_6
+    21300014: Long Library_7
+    21300016: Long Library_8
+    21300018: Long Library_9
+    21300020: Long Library_10
+    21300022: Long Library_11
+    21300024: Long Library_12
+    21300026: Long Library_13
+    21300028: Long Library_14
+    21300030: Long Library_15
+    21300032: Long Library_16
+    21300034: Long Library_17
+    21300036: Long Library_18
+    21300038: Long Library_19
+    21300040: Long Library_20
+    21300042: Long Library_21
+    21300044: Long Library_22
+    21300046: Long Library_23
+    21300048: Long Library_24
+    21300050: Long Library_25
+    21300052: Long Library_26
+    21300054: Long Library_27
+    21300056: Long Library_28
+    21300058: Long Library_29
+    21300060: Long Library_30
+    21300062: Long Library_31
+    21300064: Long Library_32
+    21300066: Long Library_33
+    21300068: Long Library_34
+    21300070: Long Library_35
+    21300072: Long Library_36
+    21300074: Long Library_37
+    21300076: Library_4
+    21300078: Library_3
+    21300080: Long Library_40
+    21300082: Long Library_41
+    21300084: Long Library_42
+    21300086: Long Library_43
+    21300088: Long Library_44
+    21300090: Long Library_45
+    21300092: Long Library_46
+    21300094: Long Library_47
+    21300096: Long Library_48
+    21300098: Long Library_49
+    21300100: Long Library_50
+    21300102: Long Library_51
+    21300104: Long Library_52
+    21300106: Long Library_53
+    21300108: Long Library_54
+    21300110: Long Library_55
+    21300112: Long Library_56
+    21300114: Long Library_57
+    21300116: Long Library_58
+    21300118: Long Library_59
+    21300120: Long Library_60
+    21300122: Long Library_61
+    21300124: Long Library_62
+    21300126: Long Library_63
+    21300128: Long Library_64
+    21300130: Long Library_65
+    21300132: Long Library_66
+    21300134: Long Library_67
+    21300136: Long Library_68
+    21300138: Long Library_69
+    21300140: Long Library_70
+    21300142: Long Library_71
+    21300144: Long Library_72
+    21300146: Library_7
+    21300148: Long Library_74
+    21300150: Long Library_75
+    21300152: Long Library_76
+    21300154: Long Library_77
+    21300156: Long Library_78
+    21300158: Long Library_79
+    21300160: Long Library_80
+    21300162: Long Library_81
+    21300164: Long Library_82
+    21300166: Long Library_83
+    21300168: Long Library_84
+    21300170: Long Library_85
+    21300172: Long Library_86
+    21300174: Long Library_87
+    21300176: Long Library_88
+    21300178: Long Library_89
+    21300180: Long Library_90
+    21300182: Long Library_91
+    21300184: Long Library_92
+    21300186: Library_2
+    21300188: Long Library_94
+    21300190: Long Library_95
+    21300192: Long Library_96
+    21300194: Long Library_97
+    21300196: Long Library_98
+    21300198: Library_5
+    21300200: Library_1
+    21300202: Long Library_101
+    21300204: Long Library_102
+    21300206: Long Library_103
+    21300208: Long Library_104
+    21300210: Long Library_105
+    21300212: Long Library_106
+    21300214: Long Library_107
+    21300216: Long Library_108
+    21300218: Long Library_109
+    21300220: Long Library_110
+    21300222: Long Library_111
+    21300224: Long Library_112
+    21300226: Long Library_113
+    21300228: Long Library_114
+    21300230: Long Library_115
+    21300232: Long Library_116
+    21300234: Long Library_117
+    21300236: Long Library_118
+    21300238: Long Library_119
+    21300240: Long Library_120
+    21300242: Long Library_121
+    21300244: Long Library_122
+    21300246: Long Library_123
+    21300248: Long Library_124
+    21300250: Long Library_125
+    21300252: Long Library_126
+    21300254: Long Library_127
+    21300256: Long Library_128
+    21300258: Long Library_129
+    21300260: Library_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Long Library_0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1376
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1376
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1375
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_3
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1375
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_4
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1376
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_5
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1376
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_6
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1375
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_7
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1375
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_8
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1376
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_9
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1376
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_10
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1377
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_11
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1377
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_12
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1377
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_13
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1377
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_14
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1377
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_15
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1377
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_16
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 1375
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_17
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 1375
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_18
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 1377
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_19
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1377
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_20
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 1376
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_21
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1376
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 395
+        width: 1287
+        height: 975
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_23
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1163
+        width: 263
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_24
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1163
+        width: 256
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_25
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1247
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_26
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1247
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_27
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1247
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_28
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1245
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_29
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_30
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1247
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_31
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1247
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_32
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1245
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_33
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1245
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_34
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1245
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_35
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 1247
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_36
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1247
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_37
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1218
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Library_4
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1163
+        width: 256
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Library_3
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 651
+        width: 1792
+        height: 719
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_40
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1233
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_41
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1231
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_42
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1233
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_43
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1233
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_44
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1233
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_45
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1233
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_46
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1233
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_47
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1233
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_48
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1233
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_49
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1233
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_50
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1233
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_51
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1204
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_52
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1204
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_53
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1204
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_54
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1204
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_55
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1204
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_56
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1204
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_57
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1204
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_58
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1204
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_59
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_60
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1204
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_61
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1204
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_62
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1204
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_63
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 1204
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_64
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1121
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_65
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1121
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_66
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1121
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_67
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1121
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_68
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1121
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_69
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1121
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_70
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 1136
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_71
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1136
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_72
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 907
+        width: 518
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Library_7
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 907
+        width: 256
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_74
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 395
+        width: 262
+        height: 719
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_75
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 1073
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_76
+      rect:
+        serializedVersion: 2
+        x: 4306
+        y: 1073
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_77
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 1018
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_78
+      rect:
+        serializedVersion: 2
+        x: 4306
+        y: 1018
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_79
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 983
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_80
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 983
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_81
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 940
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_82
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 940
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_83
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 864
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_84
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 864
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_85
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 864
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_86
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 864
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_87
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 395
+        width: 262
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_88
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 651
+        width: 512
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_89
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 609
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_90
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 609
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_91
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 609
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_92
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 609
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Library_2
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 395
+        width: 256
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_94
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 607
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_95
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 607
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_96
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 607
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_97
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 607
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_98
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 395
+        width: 512
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Library_5
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 395
+        width: 512
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Library_1
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 395
+        width: 768
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_101
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 496
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_102
+      rect:
+        serializedVersion: 2
+        x: 4035
+        y: 495
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_103
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 495
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_104
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 495
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_105
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 495
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_106
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 495
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_107
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 353
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_108
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 353
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_109
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 353
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_110
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 353
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_111
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 339
+        width: 105
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_112
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 354
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_113
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 354
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_114
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 21
+        width: 256
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_115
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 350
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_116
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 350
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_117
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 351
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_118
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 351
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_119
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 4
+        width: 160
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_120
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 349
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_121
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 349
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_122
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 349
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_123
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 349
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_124
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 352
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_125
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 352
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_126
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 352
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_127
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 352
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_128
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 352
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Library_129
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 352
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Library_6
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 704
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

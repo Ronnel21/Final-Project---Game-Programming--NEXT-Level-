@@ -1,0 +1,5631 @@
+fileFormatVersion: 2
+guid: 450d19619de770d4fbc93515d7233784
+timeCreated: 1480257585
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shanoa_Stand_0
+    21300002: Shanoa_Stand_1
+    21300004: Shanoa_Stand_2
+    21300006: Shanoa_Stand_3
+    21300008: Shanoa_Stand_4
+    21300010: Shanoa_Stand_5
+    21300012: Shanoa_Stand_6
+    21300014: Shanoa_Stand_7
+    21300016: Shanoa_Run1_0
+    21300018: Shanoa_Run1_1
+    21300020: Shanoa_Run1_2
+    21300022: Shanoa_Run1_3
+    21300024: Shanoa_Run2_0
+    21300026: Shanoa_Run2_1
+    21300028: Shanoa_Run2_2
+    21300030: Shanoa_Run2_3
+    21300032: Shanoa_Run3_0
+    21300034: Shanoa_Run3_1
+    21300036: Shanoa_Run3_2
+    21300038: Shanoa_Run3_3
+    21300040: Shanoa_Run3_4
+    21300042: Shanoa_Run3_5
+    21300044: Shanoa_SCrouch_0
+    21300046: Shanoa_SCrouch_1
+    21300048: Shanoa_SCrouch_2
+    21300050: Shanoa_SCrouch_3
+    21300052: Shanoa_SCrouch_4
+    21300054: Shanoa_FCrouch_0
+    21300056: Shanoa_30
+    21300058: Shanoa_31
+    21300060: Shanoa_32
+    21300062: Shanoa_33
+    21300064: Shanoa_34
+    21300066: Shanoa_35
+    21300068: Shanoa_36
+    21300070: Shanoa_37
+    21300072: Shanoa_38
+    21300074: Shanoa_39
+    21300076: Shanoa_40
+    21300078: Shanoa_41
+    21300080: Shanoa_42
+    21300082: Shanoa_43
+    21300084: Shanoa_44
+    21300086: Shanoa_45
+    21300088: Shanoa_46
+    21300090: Shanoa_47
+    21300092: Shanoa_48
+    21300094: Shanoa_49
+    21300096: Shanoa_Stop_0
+    21300098: Shanoa_Stop_1
+    21300100: Shanoa_Stop_2
+    21300102: Shanoa_Stop_3
+    21300104: Shanoa_Stop_4
+    21300106: Shanoa_Stop_5
+    21300108: Shanoa_56
+    21300110: Shanoa_57
+    21300112: Shanoa_58
+    21300114: Shanoa_59
+    21300116: Shanoa_60
+    21300118: Shanoa_61
+    21300120: Shanoa_62
+    21300122: Shanoa_Jump1_4
+    21300124: Shanoa_Jump1_3
+    21300126: Shanoa_Jump1_2
+    21300128: Shanoa_Jump1_1
+    21300130: Shanoa_Jump1_0
+    21300132: Shanoa_68
+    21300134: Shanoa_69
+    21300136: Shanoa_Jump2_5
+    21300138: Shanoa_Jump2_4
+    21300140: Shanoa_Jump2_3
+    21300142: Shanoa_Jump2_2
+    21300144: Shanoa_Jump2_1
+    21300146: Shanoa_Jump2_0
+    21300148: Shanoa_Jump3_5
+    21300150: Shanoa_Jump3_4
+    21300152: Shanoa_Jump3_3
+    21300154: Shanoa_Jump3_2
+    21300156: Shanoa_Jump3_1
+    21300158: Shanoa_Jump3_0
+    21300160: Shanoa_Fall_0
+    21300162: Shanoa_Fall_1
+    21300164: Shanoa_Fall_2
+    21300166: Shanoa_85
+    21300168: Shanoa_86
+    21300170: Shanoa_87
+    21300172: Shanoa_88
+    21300174: Shanoa_89
+    21300176: Shanoa_90
+    21300178: Shanoa_91
+    21300180: Shanoa_92
+    21300182: Shanoa_93
+    21300184: Shanoa_94
+    21300186: Shanoa_95
+    21300188: Shanoa_96
+    21300190: Shanoa_97
+    21300192: Shanoa_98
+    21300194: Shanoa_99
+    21300196: Shanoa_100
+    21300198: Shanoa_101
+    21300200: Shanoa_102
+    21300202: Shanoa_103
+    21300204: Shanoa_104
+    21300206: Shanoa_105
+    21300208: Shanoa_106
+    21300210: Shanoa_107
+    21300212: Shanoa_108
+    21300214: Shanoa_Attack_0A
+    21300216: Shanoa_Attack_1A
+    21300218: Shanoa_Attack_2A
+    21300220: Shanoa_Attack_3A
+    21300222: Shanoa_113
+    21300224: Shanoa_Attack_4A
+    21300226: Shanoa_115
+    21300228: Shanoa_116
+    21300230: Shanoa_117
+    21300232: Shanoa_118
+    21300234: Shanoa_119
+    21300236: Shanoa_120
+    21300238: Shanoa_121
+    21300240: Shanoa_122
+    21300242: Shanoa_123
+    21300244: Shanoa_124
+    21300246: Shanoa_125
+    21300248: Shanoa_126
+    21300250: Shanoa_127
+    21300252: Shanoa_128
+    21300254: Shanoa_129
+    21300256: Shanoa_130
+    21300258: Shanoa_131
+    21300260: Shanoa_132
+    21300262: Shanoa_133
+    21300264: Shanoa_134
+    21300266: Shanoa_135
+    21300268: Shanoa_136
+    21300270: Shanoa_137
+    21300272: Shanoa_138
+    21300274: Shanoa_139
+    21300276: Shanoa_140
+    21300278: Shanoa_141
+    21300280: Shanoa_142
+    21300282: Shanoa_143
+    21300284: Shanoa_144
+    21300286: Shanoa_145
+    21300288: Shanoa_146
+    21300290: Shanoa_147
+    21300292: Shanoa_148
+    21300294: Shanoa_149
+    21300296: Shanoa_150
+    21300298: Shanoa_151
+    21300300: Shanoa_152
+    21300302: Shanoa_153
+    21300304: Shanoa_154
+    21300306: Shanoa_155
+    21300308: Shanoa_156
+    21300310: Shanoa_157
+    21300312: Shanoa_158
+    21300314: Shanoa_159
+    21300316: Shanoa_160
+    21300318: Shanoa_161
+    21300320: Shanoa_162
+    21300322: Shanoa_163
+    21300324: Shanoa_164
+    21300326: Shanoa_165
+    21300328: Shanoa_166
+    21300330: Shanoa_167
+    21300332: Shanoa_168
+    21300334: Shanoa_169
+    21300336: Shanoa_170
+    21300338: Shanoa_171
+    21300340: Shanoa_172
+    21300342: Shanoa_173
+    21300344: Shanoa_174
+    21300346: Shanoa_175
+    21300348: Shanoa_176
+    21300350: Shanoa_177
+    21300352: Shanoa_178
+    21300354: Shanoa_179
+    21300356: Shanoa_180
+    21300358: Shanoa_181
+    21300360: Shanoa_182
+    21300362: Shanoa_183
+    21300364: Shanoa_184
+    21300366: Shanoa_185
+    21300368: Shanoa_186
+    21300370: Shanoa_187
+    21300372: Shanoa_188
+    21300374: Shanoa_189
+    21300376: Shanoa_190
+    21300378: Shanoa_191
+    21300380: Shanoa_192
+    21300382: Shanoa_193
+    21300384: Shanoa_194
+    21300386: Shanoa_195
+    21300388: Shanoa_196
+    21300390: Shanoa_197
+    21300392: Shanoa_198
+    21300394: Shanoa_199
+    21300396: Shanoa_200
+    21300398: Shanoa_201
+    21300400: Shanoa_202
+    21300402: Shanoa_203
+    21300404: Shanoa_204
+    21300406: Shanoa_205
+    21300408: Shanoa_206
+    21300410: Shanoa_207
+    21300412: Shanoa_208
+    21300414: Shanoa_209
+    21300416: Shanoa_210
+    21300418: Shanoa_211
+    21300420: Shanoa_212
+    21300422: Shanoa_213
+    21300424: Shanoa_214
+    21300426: Shanoa_215
+    21300428: Shanoa_216
+    21300430: Shanoa_217
+    21300432: Shanoa_218
+    21300434: Shanoa_219
+    21300436: Shanoa_220
+    21300438: Shanoa_221
+    21300440: Shanoa_222
+    21300442: Shanoa_223
+    21300444: Shanoa_224
+    21300446: Shanoa_225
+    21300448: Shanoa_226
+    21300450: Shanoa_227
+    21300452: Shanoa_228
+    21300454: Shanoa_229
+    21300456: Shanoa_230
+    21300458: Shanoa_231
+    21300460: Shanoa_232
+    21300462: Shanoa_233
+    21300464: Shanoa_234
+    21300466: Shanoa_235
+    21300468: Shanoa_236
+    21300470: Shanoa_237
+    21300472: Shanoa_238
+    21300474: Shanoa_239
+    21300476: Shanoa_240
+    21300478: Shanoa_241
+    21300480: Shanoa_242
+    21300482: Shanoa_243
+    21300484: Shanoa_244
+    21300486: Shanoa_245
+    21300488: Shanoa_246
+    21300490: Shanoa_247
+    21300492: Shanoa_248
+    21300494: Shanoa_249
+    21300496: Shanoa_250
+    21300498: Shanoa_251
+    21300500: Shanoa_252
+    21300502: Shanoa_253
+    21300504: Shanoa_254
+    21300506: Shanoa_255
+    21300508: Shanoa_256
+    21300510: Shanoa_257
+    21300512: Shanoa_258
+    21300514: Shanoa_259
+    21300516: Shanoa_260
+    21300518: Shanoa_261
+    21300520: Shanoa_262
+    21300522: Shanoa_263
+    21300524: Shanoa_264
+    21300526: Shanoa_265
+    21300528: Shanoa_266
+    21300530: Shanoa_267
+    21300532: Shanoa_268
+    21300534: Shanoa_269
+    21300536: Shanoa_270
+    21300538: Shanoa_271
+    21300540: Shanoa_272
+    21300542: Shanoa_273
+    21300544: Shanoa_274
+    21300546: Shanoa_275
+    21300548: Shanoa_276
+    21300550: Shanoa_277
+    21300552: Shanoa_278
+    21300554: Shanoa_279
+    21300556: Shanoa_280
+    21300558: Shanoa_281
+    21300560: Shanoa_282
+    21300562: Shanoa_283
+    21300564: Shanoa_284
+    21300566: Shanoa_285
+    21300568: Shanoa_286
+    21300570: Shanoa_287
+    21300572: Shanoa_288
+    21300574: Shanoa_289
+    21300576: Shanoa_290
+    21300578: Shanoa_291
+    21300580: Shanoa_292
+    21300582: Shanoa_293
+    21300584: Shanoa_294
+    21300586: Shanoa_295
+    21300588: Shanoa_296
+    21300590: Shanoa_297
+    21300592: Shanoa_298
+    21300594: Shanoa_299
+    21300596: Shanoa_300
+    21300598: Shanoa_301
+    21300600: Shanoa_302
+    21300602: Shanoa_303
+    21300604: Shanoa_304
+    21300606: Shanoa_305
+    21300608: Shanoa_306
+    21300610: Shanoa_307
+    21300612: Shanoa_308
+    21300614: Shanoa_309
+    21300616: Shanoa_310
+    21300618: Shanoa_311
+    21300620: Shanoa_312
+    21300622: Shanoa_313
+    21300624: Shanoa_314
+    21300626: Shanoa_315
+    21300628: Shanoa_316
+    21300630: Shanoa_317
+    21300632: Shanoa_318
+    21300634: Shanoa_319
+    21300636: Shanoa_320
+    21300638: Shanoa_321
+    21300640: Shanoa_322
+    21300642: Shanoa_323
+    21300644: Shanoa_324
+    21300646: Shanoa_325
+    21300648: Shanoa_326
+    21300650: Shanoa_327
+    21300652: Shanoa_328
+    21300654: Shanoa_329
+    21300656: Shanoa_330
+    21300658: Shanoa_331
+    21300660: Shanoa_332
+    21300662: Shanoa_333
+    21300664: Shanoa_334
+    21300666: Shanoa_335
+    21300668: Shanoa_336
+    21300670: Shanoa_337
+    21300672: Shanoa_338
+    21300674: Shanoa_339
+    21300676: Shanoa_340
+    21300678: Shanoa_341
+    21300680: Shanoa_342
+    21300682: Shanoa_343
+    21300684: Shanoa_344
+    21300686: Shanoa_345
+    21300688: Shanoa_346
+    21300690: Shanoa_347
+    21300692: Shanoa_348
+    21300694: Shanoa_349
+    21300696: Shanoa_350
+    21300698: Shanoa_351
+    21300700: Shanoa_352
+    21300702: Shanoa_353
+    21300704: Shanoa_354
+    21300706: Shanoa_355
+    21300708: Shanoa_356
+    21300710: Shanoa_357
+    21300712: Shanoa_358
+    21300714: Shanoa_359
+    21300716: Shanoa_360
+    21300718: Shanoa_361
+    21300720: Shanoa_362
+    21300722: Shanoa_363
+    21300724: Shanoa_364
+    21300726: Shanoa_365
+    21300728: Shanoa_366
+    21300730: Shanoa_367
+    21300732: Shanoa_368
+    21300734: Shanoa_369
+    21300736: Shanoa_370
+    21300738: Shanoa_371
+    21300740: Shanoa_372
+    21300742: Shanoa_373
+    21300744: Shanoa_374
+    21300746: Shanoa_375
+    21300748: Shanoa_376
+    21300750: Shanoa_377
+    21300752: Shanoa_378
+    21300754: Shanoa_379
+    21300756: Shanoa_380
+    21300758: Shanoa_381
+    21300760: Shanoa_382
+    21300762: Shanoa_383
+    21300764: Shanoa_384
+    21300766: Shanoa_385
+    21300768: Shanoa_386
+    21300770: Shanoa_387
+    21300772: Shanoa_388
+    21300774: Shanoa_389
+    21300776: Shanoa_390
+    21300778: Shanoa_391
+    21300780: Shanoa_392
+    21300782: Shanoa_393
+    21300784: Shanoa_394
+    21300786: Shanoa_395
+    21300788: Shanoa_Stand_8
+    21300790: Shanoa_Stand_9
+    21300792: Shanoa_FCrouch_1
+    21300794: Shanoa_FCrouch_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 0
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shanoa_Stand_0
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2851
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stand_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2851
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stand_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2851
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stand_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2851
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stand_4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2851
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stand_5
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2851
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stand_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2851
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stand_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2851
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run1_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2797
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run1_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2796
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run1_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2797
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run1_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2797
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run2_0
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2746
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run2_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2746
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run2_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2746
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run2_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2746
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run3_0
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2695
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run3_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2694
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run3_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2695
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run3_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2695
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run3_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2695
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Run3_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2695
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_SCrouch_0
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2647
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_SCrouch_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2647
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_SCrouch_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2647
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_SCrouch_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2647
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_SCrouch_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2647
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_FCrouch_0
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2606
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_30
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2560
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2555
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2555
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_33
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2555
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_34
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2496.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2496.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2496.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_37
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2496.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2438.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2438.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_40
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2438.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_41
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2438.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2438.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_43
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2438.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2380.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2380.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_46
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2380.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2380.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_48
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2380.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_49
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2380.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stop_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2312
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stop_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2312
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stop_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2312
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stop_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2313
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stop_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2312
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stop_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2312
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2258
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_57
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2324
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_58
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2248
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_59
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2252
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_60
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2251
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_61
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2249
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_62
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2264.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump1_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2200
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump1_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2200
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump1_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2200
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump1_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2200
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump1_0
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2200
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_68
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2204
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_69
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2205
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump2_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2143
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump2_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2143
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump2_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2143
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump2_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2144
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump2_1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2144
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump2_0
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2143
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump3_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2089
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump3_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2089
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump3_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2089
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump3_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2089
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump3_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2089
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Jump3_0
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2089
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Fall_0
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2015
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Fall_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2014
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Fall_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2014
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_85
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2021
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_86
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2017
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_87
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2013
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_88
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2020
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_89
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2023
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_90
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2033
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1947
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_92
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1954
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_93
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1951
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_94
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1954
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_95
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1951
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_96
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1952
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_97
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1955
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_98
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1960
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_99
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1956
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_100
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1916.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_101
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1916.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1916.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_103
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1916.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_104
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1916.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_105
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1916.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_106
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1916.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_107
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1916.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_108
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1840
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Attack_0A
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1851
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Attack_1A
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1851
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Attack_2A
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1851
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Attack_3A
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1851
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_113
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1830
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Attack_4A
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1851
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_115
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1893
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_116
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1776
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1775
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_118
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1783
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_119
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1785
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_120
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1778
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_121
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1782
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_122
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1784
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_123
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1781
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_124
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1742.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_125
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1742.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_126
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1742.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_127
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1742.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_128
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1742.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_129
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1742.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_130
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1684.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_131
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1684.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_132
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1684.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_133
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1684.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_134
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1684.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_135
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1626.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_136
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1626.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_137
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1626.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_138
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1626.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_139
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1626.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_140
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1626.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_141
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1568.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_142
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1568.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_143
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1568.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_144
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1568.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_145
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1568.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_146
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1568.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_147
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1568.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_148
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1568.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_149
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1568.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_150
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1568.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_151
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1510.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_152
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1510.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_153
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1510.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_154
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1510.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_155
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1510.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_156
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1510.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_157
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1510.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_158
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1510.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_159
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1510.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_160
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1510.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_161
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1452.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_162
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1452.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_163
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1452.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_164
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1452.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_165
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1452.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_166
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1452.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_167
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1452.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_168
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1452.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_169
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1452.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_170
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_171
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_172
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_173
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_174
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_175
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_176
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_177
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_178
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_179
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_180
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_181
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_182
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1394.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_183
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_184
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_185
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_186
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_187
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_188
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_189
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_190
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_191
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_192
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_193
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_194
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_195
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1336.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_196
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1278.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_197
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1278.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_198
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1278.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_199
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1278.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_200
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1278.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_201
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1278.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_202
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1278.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_203
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1278.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_204
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1278.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_205
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1220.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_206
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1220.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_207
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1220.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_208
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1220.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_209
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1220.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_210
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1220.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_211
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1220.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_212
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1220.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_213
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1220.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_214
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1220.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_215
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1220.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_216
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1162.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_217
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1162.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_218
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1162.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_219
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1162.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_220
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1162.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_221
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1162.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_222
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1162.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_223
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1162.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_224
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1162.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_225
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1162.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_226
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1162.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_227
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1104.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_228
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1104.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_229
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1104.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_230
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1104.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_231
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1104.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_232
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1104.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_233
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1104.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_234
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1104.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_235
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1104.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_236
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1104.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_237
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1104.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_238
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1046.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_239
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1046.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_240
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1046.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_241
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1046.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_242
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1046.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_243
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1046.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_244
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1046.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_245
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1046.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_246
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 988.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_247
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 988.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_248
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 988.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_249
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 988.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_250
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 988.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_251
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 988.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_252
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 988.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_253
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 988.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_254
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 988.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_255
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 930.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_256
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 930.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_257
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 930.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_258
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 930.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_259
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 930.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_260
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 930.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_261
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 930.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_262
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 930.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_263
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 930.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_264
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 930.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_265
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 872.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_266
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 872.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_267
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 872.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_268
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 872.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_269
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 872.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_270
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 872.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_271
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 872.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_272
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 872.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_273
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 814.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_274
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 814.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_275
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 814.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_276
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 814.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_277
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 814.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_278
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 814.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_279
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 814.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_280
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 756.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_281
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 756.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_282
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 756.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_283
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 756.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_284
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 756.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_285
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 756.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_286
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 756.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_287
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 698.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_288
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 698.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_289
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 698.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_290
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 698.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_291
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 698.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_292
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 698.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_293
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 698.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_294
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 640.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_295
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 640.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_296
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 640.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_297
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 640.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_298
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 640.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_299
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 640.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_300
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 640.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_301
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 582.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_302
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 582.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_303
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 582.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_304
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 582.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_305
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 582.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_306
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 524.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_307
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 524.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_308
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 524.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_309
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 524.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_310
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 524.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_311
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 466.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_312
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 466.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_313
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 466.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_314
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 466.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_315
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 466.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_316
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_317
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_318
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_319
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_320
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_321
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_322
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_323
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_324
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_325
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_326
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_327
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_328
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_329
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_330
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_331
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_332
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_333
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_334
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_335
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_336
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_337
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_338
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_339
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 408.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_340
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_341
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_342
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_343
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_344
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_345
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_346
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_347
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_348
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_349
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_350
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_351
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_352
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_353
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_354
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_355
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_356
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_357
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_358
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_359
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_360
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_361
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_362
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_363
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 350.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_364
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 292.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_365
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 292.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_366
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 292.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_367
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 292.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_368
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 292.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_369
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 292.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_370
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 292.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_371
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 292.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_372
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 234.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_373
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 234.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_374
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 234.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_375
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 176.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_376
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 176.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_377
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 176.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_378
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 176.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_379
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 176.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_380
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 118.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_381
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 118.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_382
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 118.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_383
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 118.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_384
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 60.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_385
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 60.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_386
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 60.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_387
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 60.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_388
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 60.94
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_389
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2.9399986
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_390
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2.9399986
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_391
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2.9399986
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_392
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2.9399986
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_393
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2.9399986
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_394
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2.9399986
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_395
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2.9399986
+        width: 33.96
+        height: 58.06
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stand_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2851
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_Stand_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2851
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_FCrouch_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2606
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shanoa_FCrouch_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2606
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
